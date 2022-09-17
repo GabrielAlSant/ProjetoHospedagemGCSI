@@ -2,7 +2,7 @@ export default function Header(){
 return (
 
     <div>
-    <div class="container text-center">
+    <div class="">
     <div class="row">
     <div class="col">
       <div className="title white">Livraria</div>
@@ -35,7 +35,7 @@ return (
 </nav>
     </div>
     </div>
-    <div class="container text-center">
+    <div class="">
   <div class="row">
     <div class="col">
     <div class="card-body">

@@ -7,7 +7,7 @@ export default function Home() {
   return (
     <div>
     <div className="background">
-    <Header></Header>
+    <Header />
     </div>
     </div>
   )
