@@ -15,12 +15,27 @@ a {
   box-sizing: border-box;
 }
 
-@media (prefers-color-scheme: dark) {
-  html {
-    color-scheme: dark;
-  }
-  body {
-    color: white;
-    background: black;
+.white{
+  color: white;
+}
+
+.title{
+  margin-top: 5%;
+  font-size: 30px;
+}
+
+.headitem{
+  margin-top: 5%;
+}
+
+nav {margin-top: 5%;}
+
+.background{
+  background-image: url("../public/img/back.webp");
+  height: 250px;
+}
+@media (max-width: 600px) {
+  .title{
+    margin-top: 10%;
   }
 }
