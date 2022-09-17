@@ -35,9 +35,18 @@ return (
 </nav>
     </div>
     </div>
+    <div class="container text-center">
+  <div class="row">
+    <div class="col">
+    <div class="card-body">
+    <div className="white">Às vezes a leitura é um modo engenhoso de evitar o pensamento.</div>
     </div>
-
-
+    </div>
+    <div class="col">
+    </div>
+  </div>
+</div>
+    </div>
     </div>
 )
 }
