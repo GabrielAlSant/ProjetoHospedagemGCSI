@@ -16,7 +16,7 @@ a {
 }
 
 .white{
-  color: white;
+  color: whitesmoke;
 }
 
 .title{
@@ -35,7 +35,7 @@ nav {
 
 .card-body{
   border: 3px solid white;
-  color: white;
+  color: whitesmoke;
   height: 140px;
   width: 400px;
   margin-left: 20%;
@@ -44,9 +44,7 @@ nav {
   text-align: center;
   margin-top: 5%;
 }
-.row{
-  width: 100%;
-}
+
 .background{
   background-image: url("../public/img/back.webp");
   height: 280px;
@@ -59,7 +57,7 @@ nav {
   }
   .card-body{
     border: 3px solid white;
-    color: white;
+    color: whitesmoke;
     height: 140px;
     width: 400px;
     margin-left: 1%;
@@ -71,6 +69,12 @@ nav {
   .background{
     background-image: url("../public/img/back.webp");
     height: 250px;
+    width: 100% !important;
+  }
+  .row{
+    width: 100%;
+  }
+  .col{
     width: 100%;
   }
 }
