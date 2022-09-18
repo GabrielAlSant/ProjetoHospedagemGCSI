@@ -168,11 +168,15 @@ nav {
     margin-top: 5%;
   }
   .btn {
-    width:200px
+    width:220px
   }
   .textheadercard{
+    align-items: center;
     margin-top: 50%;
-    font-size: 20px;
+    font-size: 25px;
     text-align: center;
+    border: 1px black solid;
+    margin-left: 5%;
+    margin-right: 15%;
   }
 }
