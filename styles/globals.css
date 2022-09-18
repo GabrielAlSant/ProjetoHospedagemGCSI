@@ -80,6 +80,25 @@ nav {
   margin-top: 10%;
 }
 
+.displayheadercard{
+  display: flex;
+  margin-top: 10%;
+  margin-left: 10%;
+}
+
+.start{
+  text-align: start;
+}
+
+.end{
+  align-items: end;
+  text-align: end;
+  margin-left: 60%;
+}
+
+.textheadercard{
+  font-size: 20px;
+}
 
 
 @media (max-width: 600px) {
@@ -130,5 +149,30 @@ nav {
     text-align: center;
     margin-top:110%;
     background-color: white;
+  }
+
+  .displayheadercard{
+    display: inline;
+    margin-top: 20%;
+    margin-left: 10%;
+  }
+  
+  .start{
+    text-align: start;
+
+  }
+  
+  .end{
+    text-align: center;
+    margin-left: 0%;
+    margin-top: 5%;
+  }
+  .btn {
+    width:200px
+  }
+  .textheadercard{
+    margin-top: 50%;
+    font-size: 20px;
+    text-align: center;
   }
 }
