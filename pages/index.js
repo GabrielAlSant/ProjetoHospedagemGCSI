@@ -10,7 +10,9 @@ export default function Home() {
     <div className="background">
     <Header />
     </div>
-    <Body />
+    <div className="imgbody">
+     <Body />
+     </div>
     </div>
   )
 }

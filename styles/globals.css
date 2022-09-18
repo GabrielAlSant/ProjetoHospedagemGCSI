@@ -11,10 +11,6 @@ a {
   text-decoration: none;
 }
 
-* {
-  box-sizing: border-box;
-}
-
 .white{
   color: whitesmoke;
 }
@@ -45,11 +41,47 @@ nav {
   margin-top: 5%;
 }
 
+.imgbody{
+  background-image: url("../public/img/utilizavel.jpg");
+  width: 600px;
+  height: 250px;
+  margin-left: 10%;
+  border: 1px rgb(68, 68, 68) solid;
+  margin-top: 5%;
+}
+
+
 .background{
   background-image: url("../public/img/back.webp");
   height: 280px;
   width: 100%;
 }
+
+.row{
+  width: 100%;
+}
+.col{
+  width: 100%;
+}
+.imgtext .card-body{
+  border: none;
+  color: rgb(24, 23, 23);
+  height:200px;
+  width: 400px;
+  margin-left: 100%;
+  font-size: 30px;
+  display: flex;
+  text-align: center;
+  margin-top: 25%;
+  background-color: white;
+}
+
+.black{
+  margin-top: 10%;
+}
+
+
+
 @media (max-width: 600px) {
   .title{
     margin-top: 10%;
@@ -72,9 +104,31 @@ nav {
     width: 100% !important;
   }
   .row{
-    width: 100%;
+    width: 80%;
   }
   .col{
-    width: 100%;
+    width: 80%;
+  }
+
+  .imgbody{
+    background-image: url("../public/img/utilizavel.jpg");
+    width: 400px;
+    height: 250px;
+    margin-left: 5%;
+    border: 1px rgb(68, 68, 68) solid;
+    margin-top: 5%;
+  }
+
+  .imgtext .card-body{
+    border: none;
+    color: rgb(24, 23, 23);
+    height:200px;
+    width: 300px;
+    margin-left: 5%;
+    font-size: 30px;
+    display: flex;
+    text-align: center;
+    margin-top:100%;
+    background-color: white;
   }
 }
