@@ -60,11 +60,12 @@ nav {
     color: white;
     height: 140px;
     width: 400px;
-    margin-left: 7%;
+    margin-left: 1%;
     font-size: 30px;
     display: flex;
     text-align: center;
     margin-top: 5%;
+    background-color: blue;
   }
   .background{
     background-image: url("../public/img/back.webp");
