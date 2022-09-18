@@ -3,6 +3,7 @@ import Image from 'next/image'
 import styles from '../styles/Home.module.css'
 import Header from './components/header'
 import Body from './components/body'
+import HeaderCard from './components/headercard'
 
 export default function Home() {
   return (
@@ -13,6 +14,8 @@ export default function Home() {
     <div className="imgbody">
      <Body />
      </div>
+
+     <HeaderCard />
     </div>
   )
 }

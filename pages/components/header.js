@@ -9,7 +9,7 @@ return (
     </div>
     <div className="col">
     </div>
-    <div className="col">
+    <div className="col two">
     <nav className="navbar navbar-expand-lg bg">
          <div>
     <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">

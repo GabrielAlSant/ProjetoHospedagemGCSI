@@ -112,7 +112,7 @@ nav {
 
   .imgbody{
     background-image: url("../public/img/utilizavel.jpg");
-    width: 300px;
+    width: 350px;
     height: 250px;
     margin-left: 5%;
     border: 1px rgb(68, 68, 68) solid;
@@ -128,7 +128,7 @@ nav {
     font-size: 30px;
     display: flex;
     text-align: center;
-    margin-top:100%;
+    margin-top:110%;
     background-color: white;
   }
 }
