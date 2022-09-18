@@ -7,7 +7,7 @@ import Body from './components/body'
 export default function Home() {
   return (
     <div>
-    <div className="background">
+    <div className="background" width={"100%"}>
     <Header />
     </div>
     <div className="imgbody">
