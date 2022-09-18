@@ -44,7 +44,9 @@ nav {
   text-align: center;
   margin-top: 5%;
 }
-
+.row{
+  width: 100%;
+}
 .background{
   background-image: url("../public/img/back.webp");
   height: 280px;
@@ -65,7 +67,6 @@ nav {
     display: flex;
     text-align: center;
     margin-top: 5%;
-    background-color: blue;
   }
   .background{
     background-image: url("../public/img/back.webp");
