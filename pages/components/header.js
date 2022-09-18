@@ -2,14 +2,14 @@ export default function Header(){
 return (
 
     <div>
-    <div class="">
-    <div class="row">
-    <div class="col">
+    <div className="">
+    <div className="row">
+    <div className="col">
       <div className="title white">Livraria</div>
     </div>
-    <div class="col">
+    <div className="col">
     </div>
-    <div class="col">
+    <div className="col">
     <nav className="navbar navbar-expand-lg bg">
          <div>
     <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -35,14 +35,14 @@ return (
 </nav>
     </div>
     </div>
-    <div class="">
-  <div class="row">
-    <div class="col">
-    <div class="card-body">
+    <div className="">
+  <div className="row">
+    <div className="col">
+    <div className="card-body">
     <div className="white">Às vezes a leitura é um modo engenhoso de evitar o pensamento.</div>
     </div>
     </div>
-    <div class="col">
+    <div className="col">
     </div>
   </div>
 </div>

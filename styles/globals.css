@@ -22,6 +22,7 @@ a {
 .title{
   margin-top: 5%;
   font-size: 30px;
+  margin-left: 30%;
 }
 
 .headitem{
@@ -46,22 +47,28 @@ nav {
 
 .background{
   background-image: url("../public/img/back.webp");
-  height: 250px;
+  height: 280px;
   width: 100%;
 }
 @media (max-width: 600px) {
   .title{
     margin-top: 10%;
+    margin-left: 20%;
   }
   .card-body{
     border: 3px solid white;
     color: white;
     height: 140px;
     width: 400px;
-    margin-left: 0%;
+    margin-left: 7%;
     font-size: 30px;
     display: flex;
     text-align: center;
     margin-top: 5%;
+  }
+  .background{
+    background-image: url("../public/img/back.webp");
+    height: 250px;
+    width: 100%;
   }
 }
