@@ -1,6 +1,6 @@
 export default function Body(){
     return(
-        <div className="container">
+        <div className="container bodyimg">
         <div className="imgtext">
         <div className="row">
           <div className="col">

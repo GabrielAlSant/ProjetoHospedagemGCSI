@@ -2,7 +2,7 @@ export default function Header(){
 return (
 
     <div>
-    <div className="">
+    <div className="marginheader">
     <div className="row">
     <div className="col">
       <div className="title white">Livraria</div>
