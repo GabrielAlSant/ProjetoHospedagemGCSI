@@ -391,6 +391,7 @@ nav {
   }
   .margincards1{margin-left: 10%;margin-bottom: 2%;}
   .margincards1 .card-body{
+    margin-left: 10%;
     display: inline;
     height: 400px;
     width: 200px;
