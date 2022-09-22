@@ -148,8 +148,8 @@ nav {
     border: 3px solid white;
     color: whitesmoke;
     height: 140px;
-    width: 400px;
-    margin-left: 1%;
+    width: 350px;
+    margin-left: 0% !important;
     font-size: 30px;
     display: flex;
     text-align: center;
@@ -171,7 +171,7 @@ nav {
     background-image: url("../public/img/utilizavel.jpg");
     width: 350px;
     height: 250px;
-    margin-left: 10%;
+    margin-left: 15%;
     border: 1px rgb(68, 68, 68) solid;
     margin-top: 5%;
   }
