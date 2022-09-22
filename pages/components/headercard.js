@@ -5,7 +5,7 @@ export default function HeaderCard(){
             <div className="textheadercard">Itens na pré-venda</div>
             </div>
             <div className="end">
-            <button type="button" class="btn btn-dark">Veja mais</button>
+            <button type="button" className="btn btn-dark">Veja mais</button>
             </div>
         </div>
     )

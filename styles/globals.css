@@ -139,6 +139,27 @@ nav {
   
 }
 
+.footer{
+  background-color: rgb(23, 22, 22);
+  height: 200px;
+  margin-top: 100px;
+  color: whitesmoke;
+  display: flex;
+  font-size: 28px;
+}
+
+.logo{
+  margin-top: 10%;
+  margin-left: 15%;
+  text-align: start;
+ 
+}
+.names{
+  margin-top: 10%;
+  margin-right: 15%;
+  text-align: end;
+}
+
 @media (max-width: 600px) {
   .title{
     margin-top: 10%;
