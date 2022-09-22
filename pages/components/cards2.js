@@ -1,4 +1,4 @@
-export default function Cards(){
+export default function Cards2(){
     return (
        <div className="cardmargin">
    <div className="card5"><span className="namebook">Livro Seila OQUE</span></div>
