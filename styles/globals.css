@@ -133,7 +133,31 @@ nav {
   margin-right:20%
 }
 .card2{
-  background-image: url("../public/img/Livro.webp");
+  background-image: url("../public/img/livro1.webp");
+  border:1px black solid;
+  width: 250px;
+  height: 250px;
+  text-align: center;
+  font-size: 20px;
+  color: gray;
+  margin-left: 10px;
+  display: flex;
+  
+}
+.card3{
+  background-image: url("../public/img/Livro2.webp");
+  border:1px black solid;
+  width: 250px;
+  height: 250px;
+  text-align: center;
+  font-size: 20px;
+  color: gray;
+  margin-left: 10px;
+  display: flex;
+  
+}
+.card4{
+  background-image: url("../public/img/Livro3.webp");
   border:1px black solid;
   width: 250px;
   height: 250px;
@@ -145,6 +169,57 @@ nav {
   
 }
 
+.card5{
+  background-image: url("../public/img/Livro4.webp");
+  border:1px black solid;
+  width: 250px;
+  height: 250px;
+  text-align: center;
+  font-size: 20px;
+  color: gray;
+  margin-left: 10%;
+  display: flex;
+  
+}
+
+.card6{
+  background-image: url("../public/img/Livro5.webp");
+  border:1px black solid;
+  width: 250px;
+  height: 250px;
+  text-align: center;
+  font-size: 20px;
+  color: gray;
+  margin-left: 10px;
+  display: flex;
+  
+}
+
+.card7{
+  background-image: url("../public/img/Livro6.webp");
+  border:1px black solid;
+  width: 250px;
+  height: 250px;
+  text-align: center;
+  font-size: 20px;
+  color: gray;
+  margin-left: 10px;
+  display: flex;
+  
+}
+
+.card8{
+  background-image: url("../public/img/Livro7.webp");
+  border:1px black solid;
+  width: 250px;
+  height: 250px;
+  text-align: center;
+  font-size: 20px;
+  color: gray;
+  margin-left: 10px;
+  display: flex;
+  
+}
 .footer{
   background-color: rgb(23, 22, 22);
   height: 150px;
