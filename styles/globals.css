@@ -118,8 +118,8 @@ nav {
 .card1{
   background-image: url("../public/img/Livro.webp");
   border:1px black solid;
-  width: 300px;
-  height: 300px;
+  width: 200px;
+  height: 200px;
   text-align: center;
   font-size: 20px;
   color: gray;
@@ -130,8 +130,8 @@ nav {
 .card2{
   background-image: url("../public/img/Livro.webp");
   border:1px black solid;
-  width: 300px;
-  height: 300px;
+  width: 200px;
+  height: 200px;
   text-align: center;
   font-size: 20px;
   color: gray;
