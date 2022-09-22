@@ -149,7 +149,7 @@ nav {
     color: whitesmoke;
     height: 140px;
     width: 400px;
-    margin-left: 5%;
+    margin-left: 1%;
     font-size: 30px;
     display: flex;
     text-align: center;
@@ -157,7 +157,7 @@ nav {
   }
   .background{
     background-image: url("../public/img/back.webp");
-    height: 250px;
+    height: 240px;
     width: 100% !important;
   }
   .row{
