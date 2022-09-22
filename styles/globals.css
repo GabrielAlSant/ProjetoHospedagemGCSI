@@ -156,7 +156,7 @@ nav {
 
 .logo{
   margin-top: 10%;
-  margin-left: 20%;
+  margin-left: 17%;
   text-align: start;
   font-size: 28px;
  
@@ -263,5 +263,17 @@ nav {
 
   .footer .row{
     display: inline;
+  }
+  .logo{
+    text-align: start;
+    margin-left: 10%;
+  }
+  
+  .names{
+    margin-top: 10%;
+    margin-right: 15%;
+    text-align: start;
+    font-size: 20px;
+    margin-left: 10%;
   }
 }
