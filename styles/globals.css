@@ -149,7 +149,7 @@ nav {
     color: whitesmoke;
     height: 140px;
     width: 400px;
-    margin-left: 1%;
+    margin-left: 5%;
     font-size: 30px;
     display: flex;
     text-align: center;
@@ -171,7 +171,7 @@ nav {
     background-image: url("../public/img/utilizavel.jpg");
     width: 350px;
     height: 250px;
-    margin-left: 5%;
+    margin-left: 10%;
     border: 1px rgb(68, 68, 68) solid;
     margin-top: 5%;
   }
@@ -181,7 +181,7 @@ nav {
     color: rgb(24, 23, 23);
     height:200px;
     width: 300px;
-    margin-left: 5%;
+    margin-left: 10%;
     font-size: 30px;
     display: flex;
     text-align: center;
@@ -192,7 +192,7 @@ nav {
   .displayheadercard{
     display: inline;
     margin-top: 20%;
-    margin-left: 10%;
+    margin-left: 15%;
   }
   
   .start{
