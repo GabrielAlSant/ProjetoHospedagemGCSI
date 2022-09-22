@@ -116,106 +116,107 @@ nav {
 .container{margin-top: 5%;}
 
 .card1{
-  background-image: url("../public/img/Livro.webp");
+  background-image: url("../public/img/Livro.jpg");
   border:1px black solid;
   width: 250px;
   height: 250px;
   text-align: center;
   font-size: 20px;
-  color: gray;
-  margin-left: 10%;
+  color: black solid;
+  margin-left: 13%;
   display: flex;
   
 }
 .namebook{
-  margin-top: 70%;
-  margin-left: 20%;
-  margin-right:20%
+  margin-top: 2%;
+  margin-left: 25%;
+  margin-right:25%;
+  text-align: center;
 }
 .card2{
-  background-image: url("../public/img/livro1.webp");
+  background-image: url("../public/img/livro1.jpg");
   border:1px black solid;
   width: 250px;
   height: 250px;
   text-align: center;
   font-size: 20px;
-  color: gray;
-  margin-left: 10px;
+  color: black solid;
+  margin-left: 25px;
   display: flex;
   
 }
 .card3{
-  background-image: url("../public/img/Livro2.webp");
+  background-image: url("../public/img/Livro2.jpg");
   border:1px black solid;
   width: 250px;
   height: 250px;
   text-align: center;
   font-size: 20px;
-  color: gray;
+  color: black solid;
   margin-left: 10px;
   display: flex;
   
 }
 .card4{
-  background-image: url("../public/img/Livro3.webp");
+  background-image: url("../public/img/Livro3.jpg");
   border:1px black solid;
   width: 250px;
   height: 250px;
   text-align: center;
   font-size: 20px;
-  color: gray;
+  color: black solid;
   margin-left: 10px;
   display: flex;
   
 }
 
 .card5{
-  background-image: url("../public/img/Livro4.webp");
+  background-image: url("../public/img/Livro4.jpg");
   border:1px black solid;
   width: 250px;
   height: 250px;
   text-align: center;
   font-size: 20px;
-  color: gray;
+  color: black solid;
   margin-left: 10%;
   display: flex;
   
 }
 
 .card6{
-  background-image: url("../public/img/Livro5.webp");
+  background-image: url("../public/img/Livro5.jpg");
   border:1px black solid;
   width: 250px;
   height: 250px;
   text-align: center;
   font-size: 20px;
-  color: gray;
+  color: black solid;
   margin-left: 10px;
   display: flex;
   
 }
 
 .card7{
-  background-image: url("../public/img/Livro6.webp");
+  background-image: url("../public/img/Livro6.jpg");
   border:1px black solid;
   width: 250px;
   height: 250px;
   text-align: center;
   font-size: 20px;
-  color: gray;
+  color: black solid;
   margin-left: 10px;
   display: flex;
   
 }
 
 .card8{
-  background-image: url("../public/img/Livro7.webp");
+  background-image: url("../public/img/Livro7.jpg");
   border:1px black solid;
   width: 250px;
   height: 250px;
   text-align: center;
   font-size: 20px;
-  color: gray;
+  color: black solid;
   margin-left: 10px;
   display: flex;
   
@@ -335,6 +336,38 @@ nav {
     margin-left: 20%;
     margin-top: 50px;
   }
+
+  .card3{
+    margin-left: 20%;
+    margin-top: 50px;
+  }
+
+  .card4{
+    margin-left: 20%;
+    margin-top: 50px;
+  }
+
+  .card5{
+    margin-left: 20%;
+    margin-top: 50px;
+  }
+
+  .card6{
+    margin-left: 20%;
+    margin-top: 50px;
+  }
+
+  .card7{
+    margin-left: 20%;
+    margin-top: 50px;
+  }
+
+  .card8{
+    margin-left: 20%;
+    margin-top: 50px;
+  }
+
+
 
   .footer .row{
     display: inline;
