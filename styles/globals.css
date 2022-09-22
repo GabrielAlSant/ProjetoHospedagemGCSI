@@ -29,7 +29,7 @@ nav {
   margin-top: 5%;
 }
 
-.card-body{
+.marginheader .card-body{
   border: 3px solid white;
   color: whitesmoke;
   height: 140px;
@@ -244,6 +244,11 @@ nav {
   font-size: 20px;
 }
 
+.margincards1{margin-left: 20%;margin-right: 20%;margin-bottom: 2%;}
+.margincards1 .card-body{
+  height: 350px;
+}
+
 @media (max-width: 600px) {
   .title{
     margin-top: 10%;
@@ -384,4 +389,5 @@ nav {
     font-size: 20px;
     margin-left: 10%;
   }
+  .margincards1{margin-left: 10%;margin-right: 10%;margin-bottom: 2%;}
 }

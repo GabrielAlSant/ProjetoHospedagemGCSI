@@ -1,10 +1,45 @@
+import Image from 'next/image'
+import img1 from '../../public/img/Livro.jpg'
+import img2 from '../../public/img/livro1.jpg'
+import img3 from '../../public/img/Livro2.jpg'
+import img4 from '../../public/img/Livro3.jpg'
 export default function Cards(){
     return (
-       <div className="cardmargin">
-   <div className="card1"><span className="namebook">HOLOCAUSTO BRASILEIRO</span></div>
-   <div className="card2"><span className="namebook">FORWARD</span></div>
-   <div className="card3"><span className="namebook">O LABIRINTO DO FAUNO</span></div>
-   <div className="card4"><span className="namebook">A PORTA</span></div>
-       </div>
+        <div className='margincards1'>         
+          <div className="row">
+  <div className="col-sm-3">
+    <div className="card">
+      <div className="card-body">
+        <h5 className="card-title">HOLOCAUSTO BRASILEIRO</h5>
+      <Image src={img1} height={256} width={300}/>
+      </div>
+    </div>
+  </div>
+  <div className="col-sm-3">
+    <div className="card">
+      <div className="card-body">
+        <h5 className="card-title">FORWARD</h5>
+        <Image src={img2} height={650} width={700}/>
+      </div>
+    </div>
+  </div>
+  <div className="col-sm-3">
+    <div className="card">
+      <div className="card-body">
+        <h5 className="card-title">O LABIRINTO DO FAUNO</h5>
+        <Image src={img3} height={356} width={400}/>
+      </div>
+    </div>
+  </div>
+  <div className="col-sm-3">
+    <div className="card">
+      <div className="card-body">
+        <h5 className="card-title">A PORTA</h5>
+        <Image src={img4} height={356} width={400}/>
+      </div>
+    </div>
+  </div>
+</div>
+        </div>
     )
 }
