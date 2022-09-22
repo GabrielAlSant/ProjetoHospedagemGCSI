@@ -145,19 +145,21 @@ nav {
   margin-top: 100px;
   color: whitesmoke;
   display: flex;
-  font-size: 28px;
+  
 }
 
 .logo{
   margin-top: 10%;
   margin-left: 15%;
   text-align: start;
+  font-size: 28px;
  
 }
 .names{
   margin-top: 10%;
   margin-right: 15%;
   text-align: end;
+  font-size: 20px;
 }
 
 @media (max-width: 600px) {

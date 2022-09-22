@@ -1,7 +1,7 @@
 export default function Footer(){
     return(
         <div className="footer">
-          <div className="row">
+          <div className="row mt-2">
             <div className=" col logo">
 Livraria
             </div>
