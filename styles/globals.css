@@ -124,9 +124,12 @@ nav {
   font-size: 20px;
   color: gray;
   margin-left: 10%;
+  display: flex;
   
 }
-
+.namebook{
+  margin-top: 50%;
+}
 .card2{
   background-image: url("../public/img/Livro.webp");
   border:1px black solid;

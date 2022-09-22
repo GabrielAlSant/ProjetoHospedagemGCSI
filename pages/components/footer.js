@@ -6,7 +6,7 @@ export default function Footer(){
 Livraria
             </div>
             <div className="col names mt-4">
-Criadores: Gabriel && Taína 
+Criadores: Gabriel & Taína 
             </div>
          </div>  
         </div>
